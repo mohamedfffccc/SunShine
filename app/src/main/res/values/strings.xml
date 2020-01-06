@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wather_Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_first">Weather</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3435151641029259/7718575723</string>
+
+</resources>
